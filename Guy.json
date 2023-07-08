@@ -1,0 +1,6 @@
+{
+  "detail": {
+    "status": "does_not_exist",
+    "message": "This sample does not exists on the server."
+  }
+}
